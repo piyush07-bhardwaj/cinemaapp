@@ -1,0 +1,2 @@
+module.exports =
+  "mongodb+srv://piyushkr07p_db_user:mVfezKaboMY18BtO@cluster0.ntefi17.mongodb.net/";
